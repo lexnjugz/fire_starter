@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CI3 Fire Starter (ci3-fire-starter)
 
 <a name="toc"></a>
@@ -648,3 +649,6 @@ Too many to list them all, but here are some of the major changes:
 
 **Please [fork CI3 Fire Starter on Github](https://github.com/JasonBaier/ci3-fire-starter/fork "Fork It")
 and help make it better!**
+=======
+# fire_starter
+>>>>>>> 7f878dffb2431bbe2e5470987bf10f6589afc702
